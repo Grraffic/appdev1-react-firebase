@@ -2,46 +2,70 @@
 import { MdDelete } from "react-icons/md";
 import { FaPlus } from "react-icons/fa";
 import { useEffect, useState } from "react";
+import { db } from "../firebase.js";
+import {
+  collection,
+  addDoc,
+  getDocs,
+  updateDoc,
+  doc,
+  deleteDoc,
+} from "firebase/firestore";
 
 const ListTodos = ({ user }) => {
   const [loading, setLoading] = useState(true);
   const [newTodo, setNewTodo] = useState("");
   const [todos, setTodos] = useState([]);
 
-  const fetchTodos = async (Limit = 5) => {
+  const fetchTodos = async () => {
     try {
-      const response = await fetch(
-        `https://jsonplaceholder.typicode.com/todos?_limit=${Limit}`
-      );
-      const data = await response.json();
-      setLoading(false);
+      const collectionRef = collection(db, "todos");
+      const querySnapshot = await getDocs(collectionRef); //yung getDocs pang get ng data
+      const todos = querySnapshot.docs.map((doc) => ({
+        id: doc.id,
+        ...doc.data(),
+      }));
 
-      setTodos(data);
+      setLoading(false);
+      setTodos(todos);
     } catch (error) {
       console.error(error.message);
     }
   };
 
   useEffect(() => {
-    fetchTodos(10);
+    fetchTodos();
   }, []);
 
-  const handleToggleTodo = (id) => {
+  const handleToggleTodo = async (id, completed) => {
+    const todoRef = doc(db, "todos", id);
+    await updateDoc(todoRef, {
+      completed: !completed,
+    });
+
     setTodos(
       todos.map((todo) =>
-        todo.id === id ? { ...todo, completed: !todo.completed } : todo
+        todo.id === id ? { ...todo, completed: !completed } : todo
       )
     );
   };
 
-  const handleDeleteTodo = (id) => {
+  const handleDeleteTodo = async (id) => {
+    const todoRef = doc(db, "todos", id);
+    await deleteDoc(todoRef);
     setTodos(todos.filter((todo) => todo.id !== id));
   };
 
-  const handleAddTodo = () => {
+  const handleAddTodo = async () => {
+    const collectionRef = collection(db, "todos");
+    const docRef = await addDoc(collectionRef, {
+      title: newTodo,
+      completed: false,
+    });
+
     setTodos([
       ...todos,
-      { id: todos.length + 1, title: newTodo, completed: false },
+      { id: docRef.id, title: newTodo, completed: false },
     ]);
     setNewTodo("");
   };
@@ -68,7 +92,7 @@ const ListTodos = ({ user }) => {
               <input
                 type="checkbox"
                 checked={todo.completed}
-                onChange={() => handleToggleTodo(todo.id)}
+                onChange={() => handleToggleTodo(todo.id, todo.completed)}
               />
               {todo.completed ? <s>{todo.title}</s> : todo.title}
               <button onClick={() => handleDeleteTodo(todo.id)}>

@@ -1,6 +1,5 @@
 import { useState } from "react";
-import ListTodos from "./ListTodos";
-
+import ListTodos from "./components/ListTodos";
 function App() {
   const [user, setUser] = useState("Rafael Ramos");
 
