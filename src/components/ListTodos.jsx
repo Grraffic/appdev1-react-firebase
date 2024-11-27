@@ -63,10 +63,7 @@ const ListTodos = ({ user }) => {
       completed: false,
     });
 
-    setTodos([
-      ...todos,
-      { id: docRef.id, title: newTodo, completed: false },
-    ]);
+    setTodos([...todos, { id: docRef.id, title: newTodo, completed: false }]);
     setNewTodo("");
   };
 
