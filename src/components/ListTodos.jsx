@@ -11,6 +11,7 @@ import {
   doc,
   deleteDoc,
 } from "firebase/firestore";
+import SignOut from "./SignOut.jsx";
 
 const ListTodos = ({ user }) => {
   const [loading, setLoading] = useState(true);
@@ -72,7 +73,9 @@ const ListTodos = ({ user }) => {
   return (
     <>
       <div>
-        <h3>Welcome, {user}</h3>
+        <h3>
+          Welcome, {user.displayName || user.email} <SignOut />
+        </h3>
         <input
           type="text"
           value={newTodo}
