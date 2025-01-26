@@ -38,7 +38,7 @@
     <td align="center" width="400">
       <img src="https://img.shields.io/badge/Role-Lead%20Developer-black?style=for-the-badge&logo=javascript&logoColor=white"/>
       <br>
-      <img src="/api/placeholder/100/100" width="100" height="100" style="border-radius: 50%"/>
+      <img src="/public/Assets/Rodolfo.jpg" width="100" height="100" style="border-radius: 50%"/>
       <br>
       <b>Rodolfo Ebajan</b>
       <br>
@@ -108,7 +108,7 @@
     <td align="center" width="400">
       <img src="https://img.shields.io/badge/Role-UI%2FUX%20Designer-purple?style=for-the-badge&logo=figma&logoColor=white"/>
       <br>
-      <img src="/api/placeholder/100/100" width="100" height="100" style="border-radius: 50%"/>
+      <img src="/public/Assets/Trisha.jpg" width="100" height="100" style="border-radius: 50%"/>
       <br>
       <b>Trisha May Olorvida</b>
       <br>
@@ -122,7 +122,7 @@
 <td align="center" width="400">
       <img src="https://img.shields.io/badge/Role-UI%2FUX%20Designer-purple?style=for-the-badge&logo=figma&logoColor=white"/>
       <br>
-      <img src="/api/placeholder/100/100" width="100" height="100" style="border-radius: 50%"/>
+      <img src="/public/Assets/Borja.png" width="100" height="100" style="border-radius: 50%"/>
       <br>
       <b>Astrid Borja</b>
       <br>
