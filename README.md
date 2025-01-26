@@ -100,6 +100,20 @@ Currently, two official plugins are available:
         <img src="https://img.shields.io/badge/GitHub-LenieJane-black?style=flat-square&logo=github"/>
       </a>
     </td>
+    <td align="center" width="400">
+      <img src="https://img.shields.io/badge/Role-UI%2FUX%20Designer-purple?style=for-the-badge&logo=figma&logoColor=white"/>
+      <br>
+      <img src="/api/placeholder/100/100" width="100" height="100" style="border-radius: 50%"/>
+      <br>
+      <b>Trisha May Olorvida</b>
+      <br>
+      <sub><code>Prototyping | Visual Design</code></sub>
+      <br>
+      <br>
+      <a href="https://github.com/trishaolorvida">
+        <img src="https://img.shields.io/badge/GitHub-TrishaOlorvida-black?style=flat-square&logo=github"/>
+      </a>
+    </td>
 <td align="center" width="400">
       <img src="https://img.shields.io/badge/Role-UI%2FUX%20Designer-purple?style=for-the-badge&logo=figma&logoColor=white"/>
       <br>
@@ -115,20 +129,7 @@ Currently, two official plugins are available:
       </a>
     </td>
 
-    <td align="center" width="400">
-      <img src="https://img.shields.io/badge/Role-UI%2FUX%20Designer-purple?style=for-the-badge&logo=figma&logoColor=white"/>
-      <br>
-      <img src="/api/placeholder/100/100" width="100" height="100" style="border-radius: 50%"/>
-      <br>
-      <b>Trisha May Olorvida</b>
-      <br>
-      <sub><code>Prototyping | Visual Design</code></sub>
-      <br>
-      <br>
-      <a href="https://github.com/trishaolorvida">
-        <img src="https://img.shields.io/badge/GitHub-TrishaOlorvida-black?style=flat-square&logo=github"/>
-      </a>
-    </td>
+
   </tr>
 </table>
 
