@@ -7,6 +7,7 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
+
 ## 👥 Our Team
 
 <div align="center">
@@ -90,27 +91,42 @@ Currently, two official plugins are available:
       <br>
       <img src="/api/placeholder/100/100" width="100" height="100" style="border-radius: 50%"/>
       <br>
-      <b>Elloisa Degula</b>
+      <b>Lenie Jane Tinagsa</b>
       <br>
       <sub><code>Interface Design | Design System</code></sub>
       <br>
       <br>
-      <a href="https://github.com/EMD-001">
-        <img src="https://img.shields.io/badge/GitHub-EMD--001-black?style=flat-square&logo=github"/>
+      <a href="https://github.com/linijin">
+        <img src="https://img.shields.io/badge/GitHub-LenieJane-black?style=flat-square&logo=github"/>
       </a>
     </td>
+<td align="center" width="400">
+      <img src="https://img.shields.io/badge/Role-UI%2FUX%20Designer-purple?style=for-the-badge&logo=figma&logoColor=white"/>
+      <br>
+      <img src="/api/placeholder/100/100" width="100" height="100" style="border-radius: 50%"/>
+      <br>
+      <b>Astrid Borja</b>
+      <br>
+      <sub><code>Interface Design | Design System</code></sub>
+      <br>
+      <br>
+      <a href="https://github.com/astridborja">
+        <img src="https://img.shields.io/badge/GitHub-AstridBorja-black?style=flat-square&logo=github"/>
+      </a>
+    </td>
+
     <td align="center" width="400">
       <img src="https://img.shields.io/badge/Role-UI%2FUX%20Designer-purple?style=for-the-badge&logo=figma&logoColor=white"/>
       <br>
       <img src="/api/placeholder/100/100" width="100" height="100" style="border-radius: 50%"/>
       <br>
-      <b>Trisha Catibog</b>
+      <b>Trisha May Olorvida</b>
       <br>
       <sub><code>Prototyping | Visual Design</code></sub>
       <br>
       <br>
-      <a href="https://github.com/tshamaec">
-        <img src="https://img.shields.io/badge/GitHub-tshamaec-black?style=flat-square&logo=github"/>
+      <a href="https://github.com/trishaolorvida">
+        <img src="https://img.shields.io/badge/GitHub-TrishaOlorvida-black?style=flat-square&logo=github"/>
       </a>
     </td>
   </tr>
@@ -125,13 +141,13 @@ Currently, two official plugins are available:
       <br>
       <img src="/api/placeholder/100/100" width="100" height="100" style="border-radius: 50%"/>
       <br>
-      <b>Jasmine Manansala</b>
+      <b>Sherelyn Cuanan</b>
       <br>
       <sub><code>Test Strategy | Quality Standards</code></sub>
       <br>
       <br>
-      <a href="https://github.com/jasminemanansala">
-        <img src="https://img.shields.io/badge/GitHub-jasminemanansala-black?style=flat-square&logo=github"/>
+      <a href="https://github.com/SheCuanan">
+        <img src="https://img.shields.io/badge/GitHub-SheCuanan-black?style=flat-square&logo=github"/>
       </a>
     </td>
     <td align="center" width="400">
@@ -139,15 +155,14 @@ Currently, two official plugins are available:
       <br>
       <img src="/api/placeholder/100/100" width="100" height="100" style="border-radius: 50%"/>
       <br>
-      <b>Allen Murphy Bactol</b>
+      <b>Kylie Nicole Luzon</b>
       <br>
       <sub><code>Manual Testing | Bug Tracking</code></sub>
       <br>
       <br>
-      <a href="https://github.com/Al-Mone">
-        <img src="https://img.shields.io/badge/GitHub-Al--Mone-black?style=flat-square&logo=github"/>
+      <a href="https://github.com/kylienicole08">
+        <img src="https://img.shields.io/badge/GitHub-Kylie-black?style=flat-square&logo=github"/>
       </a>
     </td>
   </tr>
 </table>
-
