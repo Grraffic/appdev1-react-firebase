@@ -7,7 +7,6 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-
 ## 👥 Our Team
 
 <div align="center">
@@ -19,7 +18,7 @@ Currently, two official plugins are available:
     <td align="center" width="400">
       <img src="https://img.shields.io/badge/Role-Lead%20Developer-black?style=for-the-badge&logo=javascript&logoColor=white"/>
       <br>
-      <img src="/api/placeholder/100/100" width="100" height="100" style="border-radius: 50%"/>
+      <img src="/Assets/p.jpg" width="100" height="100" style="border-radius: 50%"/>
       <br>
       <b>Rafael Ramos</b>
       <br>
@@ -128,7 +127,6 @@ Currently, two official plugins are available:
         <img src="https://img.shields.io/badge/GitHub-AstridBorja-black?style=flat-square&logo=github"/>
       </a>
     </td>
-
 
   </tr>
 </table>
