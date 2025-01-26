@@ -8,9 +8,8 @@
 [![Status](https://img.shields.io/badge/Status-In%20Development-blue.svg)](https://learn-vanguard.vercel.app/)
 [![Made with React](https://img.shields.io/badge/Made%20with-React-61dafb.svg)](https://reactjs.org/)
 [![Built with Vite](https://img.shields.io/badge/Built%20with-Vite-646cff.svg)](https://vitejs.dev/)
-<a href= "[text](https://appoinment-system-5687f.web.app/)">
+[text](https://https://appoinment-system-5687f.web.app/)
 ![Project Logo](/public/Assets/logo.png)
-</a>
 
 </div>
 
