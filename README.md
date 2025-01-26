@@ -7,7 +7,6 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-
 ## 👥 Our Team
 
 <div align="center">
@@ -21,13 +20,13 @@ Currently, two official plugins are available:
       <br>
       <img src="/api/placeholder/100/100" width="100" height="100" style="border-radius: 50%"/>
       <br>
-      <b>Sidney John Sarcia</b>
+      <b>Rafael Ramos</b>
       <br>
       <sub><code>Frontend Architecture | Performance Optimization</code></sub>
       <br>
       <br>
-      <a href="https://github.com/szeedneigh">
-        <img src="https://img.shields.io/badge/GitHub-szeedneigh-black?style=flat-square&logo=github"/>
+      <a href="https://github.com/Grraffic">
+        <img src="https://img.shields.io/badge/GitHub-Grraffic-black?style=flat-square&logo=github"/>
       </a>
     </td>
     <td align="center" width="400">
@@ -35,13 +34,13 @@ Currently, two official plugins are available:
       <br>
       <img src="/api/placeholder/100/100" width="100" height="100" style="border-radius: 50%"/>
       <br>
-      <b>Daniel Latina</b>
+      <b>Rodolfo Ebajan</b>
       <br>
       <sub><code>Component Development | Integration Testing</code></sub>
       <br>
       <br>
-      <a href="https://github.com/Dan-903">
-        <img src="https://img.shields.io/badge/GitHub-Dan--903-black?style=flat-square&logo=github"/>
+      <a href="https://github.com/rodolf2">
+        <img src="https://img.shields.io/badge/GitHub-Rudy-The-Thirdy-black?style=flat-square&logo=github"/>
       </a>
     </td>
   </tr>
@@ -56,13 +55,13 @@ Currently, two official plugins are available:
       <br>
       <img src="/api/placeholder/100/100" width="100" height="100" style="border-radius: 50%"/>
       <br>
-      <b>Alicia Jane Medina</b>
+      <b>Justine Jynne Patrice Marco</b>
       <br>
       <sub><code>Strategic Planning | Resource Allocation</code></sub>
       <br>
       <br>
-      <a href="https://github.com/aliciajane-bits">
-        <img src="https://img.shields.io/badge/GitHub-aliciajane--bits-black?style=flat-square&logo=github"/>
+      <a href="https://github.com/justinemarco">
+        <img src="https://img.shields.io/badge/GitHub-Justine-black?style=flat-square&logo=github"/>
       </a>
     </td>
     <td align="center" width="400">
@@ -70,13 +69,13 @@ Currently, two official plugins are available:
       <br>
       <img src="/api/placeholder/100/100" width="100" height="100" style="border-radius: 50%"/>
       <br>
-      <b>Shiela Mae Miclat</b>
+      <b>Ma. Ellaine Pregunta</b>
       <br>
       <sub><code>Sprint Planning | Risk Management</code></sub>
       <br>
       <br>
-      <a href="https://github.com/shills16">
-        <img src="https://img.shields.io/badge/GitHub-shills16-black?style=flat-square&logo=github"/>
+      <a href="https://github.com/MaEllaine">
+        <img src="https://img.shields.io/badge/GitHub-Ellaine-black?style=flat-square&logo=github"/>
       </a>
     </td>
   </tr>
@@ -151,3 +150,4 @@ Currently, two official plugins are available:
     </td>
   </tr>
 </table>
+
