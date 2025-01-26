@@ -40,7 +40,7 @@ Currently, two official plugins are available:
       <br>
       <br>
       <a href="https://github.com/rodolf2">
-        <img src="https://img.shields.io/badge/GitHub-Rudy-The-Thirdy-black?style=flat-square&logo=github"/>
+        <img src="https://img.shields.io/badge/GitHub-RudyTheThirdy-black?style=flat-square&logo=github"/>
       </a>
     </td>
   </tr>
