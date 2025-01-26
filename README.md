@@ -38,7 +38,7 @@
     <td align="center" width="400">
       <img src="https://img.shields.io/badge/Role-Lead%20Developer-black?style=for-the-badge&logo=javascript&logoColor=white"/>
       <br>
-      <img src="/public/Assets/Rodolfo.jpg.png" width="100" height="100" style="border-radius: 50%"/>
+      <img src="/public/Assets/Rodolfo.jpg.png" width="110" height="100" style="border-radius: 50%"/>
       <br>
       <b>Rodolfo Ebajan</b>
       <br>
